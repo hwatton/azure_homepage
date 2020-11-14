@@ -1,0 +1,18 @@
+.container {
+  text-align: center;
+  margin-top: 5%;
+}
+
+@keyframes sinWobble {
+0% {
+  transform: translate(50%, 52%)
+  }
+
+  60% {
+    transform: translate(50%, 40%)
+  }
+
+  100% {
+    transform: translate(50%, 52%)
+  }
+}

@@ -1,0 +1,114 @@
+.container {
+  display: flex;
+  width: 90%;
+}
+
+.graphs {
+  text-align: center;
+  width: auto;
+  padding-left: 5%;
+}
+
+.holder {
+  margin: 2%;
+  width: 28%;
+  padding: 0;
+  padding-top: 1%;
+  background-color: "white";
+  box-shadow: 2px 4px #eeeeee;
+}
+
+.loader {
+  position: absolute;
+  top: 50%;
+  left: 45%;
+}
+
+h1 {
+  font-family: "Calibri", "Lucida Console", Courier, monospace;
+
+  font-size: 18px;
+  color: #222222;
+}
+
+p {
+  font-family: "Calibri", "Lucida Console", Courier, monospace;
+
+  font-size: 14px;
+  line-height: 16px;
+  color: #555555;
+}
+
+.little {
+  font-size: 8px;
+  line-height: 8px;
+  color: #888888;
+  font-style: italic;
+}
+
+.topBar {
+  display: flex;
+  justify-content: center;
+  flex-wrap: no-wrap;
+  width: 100%;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin: 0;
+  padding: 0;
+  flex-grow: 0;
+  text-align: left;
+  margin-left: 10%;
+	font-size: 12pt;
+	line-height: 12pt;
+}
+
+.flag {
+  opacity: 80%;
+}
+
+.slidecontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin: 0;
+  padding: 0;
+  flex-grow: 0;
+  cursor: grab;
+  text-align: left;
+  margin-left: 20%;
+  padding-right: 20;
+}
+.iconAttribution {
+  min-width: 80%;
+  padding-left: 30%;
+  font-family: "Calibri", "Lucida Console", Courier, monospace;
+  font-size: 10px;
+  line-height: 10px;
+  color: #555555;
+}
+
+.sliderText {
+  min-width: 80%;
+  padding-left: 0;
+  font-family: "Calibri", "Lucida Console", Courier, monospace;
+  font-size: 10px;
+  line-height: 10px;
+  color: #555555;
+}
+
+.bottomText {
+  text-align: center;
+}
+
+path {
+  shape-rendering: crispEdges;
+}
+
+.axis {
+  shape-rendering: crispEdges;
+  color: #333333;
+}

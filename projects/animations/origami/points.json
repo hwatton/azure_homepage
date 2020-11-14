@@ -1,0 +1,67 @@
+
+
+{
+
+  "load_shape": [
+  {"points": [
+            {"x": 10, "y":0, "x2": 10, "y2":200, "visible": 1},
+            {"x": 30, "y":0, "x2": 30, "y2":200, "visible": 1},
+            {"x": 50, "y":0, "x2": 50, "y2":200, "visible": 1},
+            {"x": 70, "y":0, "x2": 70, "y2":200, "visible": 1},
+            {"x": 90, "y":0, "x2": 90, "y2":200, "visible": 1},
+            {"x": 110, "y":0, "x2": 110, "y2":200, "visible": 1},
+            {"x": 130, "y":0, "x2": 130, "y2":200, "visible": 1},
+            {"x": 150, "y":0, "x2": 150, "y2":200, "visible": 1},
+            {"x": 170, "y":0, "x2": 170, "y2":200, "visible": 1},
+            {"x": 190, "y":0, "x2": 190, "y2":200, "visible": 1}
+
+          ]
+}],
+
+  "shapes": [{"name":"square",
+              "id": 0,
+              "points": [
+                        {"x": 100, "y":100, "visible": 1},
+                        {"x": 200, "y":100, "visible": 1},
+                        {"x": 200, "y":200, "visible": 1},
+                        {"x": 100, "y":200, "visible": 1},
+                        {"x": 100, "y":100, "visible": 1},
+                        {"x": 0, "y":0, "visible": 0},
+                        {"x": 0, "y":0, "visible": 0},
+                        {"x": 0, "y":0, "visible": 0},
+                        {"x": 0, "y":0, "visible": 0},
+                        {"x": 0, "y":0, "visible": 0}
+                      ],
+              "dottypoints": [
+                  {"x": 200, "y":100, "visible": 1},
+                  {"x": 100, "y":200, "visible": 1},
+                  {"x": 0, "y":0, "visible": 0},
+                  {"x": 0, "y":0, "visible": 0},
+                  {"x": 0, "y":0, "visible": 0}
+                ],
+              "dotStyle": "3, 3"
+                },
+                {"name":"folded_square",
+                "id": 1,
+                "points":[
+                {"x": 200, "y":100, "visible": 1},
+                {"x": 160, "y":190, "visible": 1},
+                {"x": 100, "y":110, "visible": 1},
+                {"x": 155, "y":190, "visible": 1},
+                {"x": 157, "y":180, "visible": 1},
+                {"x": 0, "y":0, "visible": 0},
+                {"x": 0, "y":0, "visible": 0},
+                {"x": 0, "y":0, "visible": 0},
+                {"x": 0, "y":0, "visible": 0},
+                {"x": 0, "y":0, "visible": 0}
+                ],
+                "dottypoints":[
+                  {"x": 100, "y":110, "visible": 1},
+                  {"x": 200, "y":100, "visible": 1},
+                  {"x": 0, "y":0, "visible": 0},
+                  {"x": 0, "y":0, "visible": 0},
+                  {"x": 0, "y":0, "visible": 0}
+                ],
+
+                "dotStyle": "3, 3" }]
+}

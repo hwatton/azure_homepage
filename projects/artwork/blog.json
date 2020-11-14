@@ -1,0 +1,31 @@
+{"blogItems":[{
+  "heading": "Strata 2",
+  "description": "Second attempt of stratified artwork",
+  "dateCreated": "10/11/2020",
+  "image":"strata2/Output 1.png",
+  "text": "Here's some hardcoded json action written to show my artwork projects in a blog format, dynamically loaded from data. I've made it into a json format so that I might be able to translate it into something that can work with mongoDB",
+  "url" : "strata2/index.html"
+
+},
+{
+  "heading": "Strata 1",
+  "description": "First attempt of stratified artwork",
+  "dateCreated": "09/11/2020",
+  "image":"strata/sample1.png",
+  "text": "now Putting stuff in here",
+  "url" : "strata/index.html"
+
+},
+
+{
+  "heading": "Strata 1 version 2",
+  "description": "Second attempt of stratified artwork",
+  "dateCreated": "09/11/2020",
+  "image":"strata/sample2.png",
+  "text": "now Putting stuff in here you see the boon",
+  "url" : "strata/index.html"
+
+}
+
+]
+}

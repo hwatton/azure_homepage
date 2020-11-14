@@ -1,0 +1,40 @@
+.animationDiv{
+padding: 20px;
+margin: 5px;
+}
+
+.svgHolder{
+  padding: 20px;
+  margin: 25px;
+  text-align: center;
+}
+
+
+.svgContainer {
+  text-align: center;
+  margin-top: 5%;
+  display:flex;
+}
+
+.location{
+display: block;
+margin-bottom: 0;
+padding-bottom: 0;
+margin-top: 0;
+padding-top: 0;
+line-height: 12px;
+}
+
+@keyframes sinWobble {
+0% {
+  transform: translate(50%, 52%)
+  }
+
+  60% {
+    transform: translate(50%, 40%)
+  }
+
+  100% {
+    transform: translate(50%, 52%)
+  }
+}

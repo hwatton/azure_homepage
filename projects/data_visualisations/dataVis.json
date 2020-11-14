@@ -1,0 +1,31 @@
+{"blogItems":[
+  {
+  "heading": "Variable Interactive Line Charts",
+  "dateCreated": "14/11/2020",
+  "image": "variable charts/thumb.png",
+  "text": "These charts show both the raw data and averaged data. The range over which the average is calculated is adjustable using a slider. Doing this can show more clearly the shape of the trend in the data and smooths it out, to allow for the inconsistant reporting on different days.",
+  "url" : "variable charts/index.html"
+  },
+  {
+  "heading": "D3 Force Layout Visualisation",
+  "dateCreated": "11/11/2020",
+  "image": "API_force_Layout/thumb.png",
+  "text": "This visualisation uses a force layout and is fed by a live API. I've used d3 force for a few graphic layouts, but I wanted to use it linked to live data, to see how that worked. Overall, I'm happy with how it works, and what it does, although I'd like to improve the styling.",
+  "url" : "API force Layout/index.html"
+},
+{
+"heading": "Interactive Histogram",
+"dateCreated": "12/11/2020",
+"image": "interactiveBars/thumb.png",
+"text": "So, this chart shows a selection of data, that you can toggle on and off by clicking the button in the legend. It looks sort of sharp, but it has usability drawbacks - it's hard to compare the colours easily when they are part obscured by other data sets. Still, learnt a lot making this. Onwards and upwards ...",
+"url" : "interactiveBars/index.html"
+},
+{
+"heading": "Line Charts from Large Datasets ",
+"dateCreated": "12/11/2020",
+"image": "line charts/thumb.png",
+"text": "I pulled these data sets from kaggle I think. They relate to the production of electricity from solar farms, and the local weather at the time. The challenge was to find useful information in order for them to better predict their output according to the upcoming weather. I'd like to go into that at somepoint, but for now, I am content with rendering a useable graph from it all.",
+"url" : "line charts/index.html"
+}
+]
+}

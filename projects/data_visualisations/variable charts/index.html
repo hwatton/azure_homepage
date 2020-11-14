@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <meta charset="utf-8" />
+  <title>Variable average COVID-19 graphs</title>
+  <head>
+    <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+    <link href="styles.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <div class="loader"></div>
+    <div class="topBar">
+      <div class="Title">
+        <h1>Variable average graphs</h1>
+        <p class="little">
+          *Note: this page is best viewed landscape or on a desktop/laptop.
+          Thanks for taking a look.
+        </p>
+        <p>
+          The data in these graphs represents the daily recorded deaths from
+          COVID-19, per country.<br />
+
+          These graphs can be altered using the slider on the right.<br />
+          The line represents an average of between 2 and 50 days data.<br />
+
+          By increasing the averaging sample size, we can more clearly identify
+          the historic trends in the data.
+        </p>
+      </div>
+      <br />
+      <div class="slidecontainer">
+        <input type="range" min="2" max="50" value="10" class="slider" />
+        <p class="sliderText">
+          Line data represents the average of the 10 previous days.
+        </p>
+      </div>
+    </div>
+    <div class="toolTip"></div>
+    <br />
+    <br />
+    <div class="graphs">
+      <div id="container_0" class="container"></div>
+      <div id="container_1" class="container"></div>
+      <div id="container_2" class="container"></div>
+    </div>
+    <div>
+      <br />
+      <p class="bottomText">
+        This series of graphs has been produced to demonstrate some data
+        visualisation techniques with d3.js.<br />
+        The respective data have been scaled such that the shape of the graphs
+        are similar. <br />
+        ie: the scales are different with respect to each country's available
+        data.<br />
+        As such it is important to note that while the trends are easily
+        visible, the rate<br />
+        of change at any one point is not necessarily given fairly by the
+        gradient of the line.<br />
+        For example, Iran's data shows a dramatic increase towards the end of
+        the dataset, but given <br />
+        that the absolute numbers are so much smaller than, for example, the US,
+        the increase would <br />
+        well explained by only a small % deviation within the numbers.<br />
+        <br />
+        The data is sourced from www.ecdc.europa.eu. <br />
+        I have made quite a few graphs from live json API's but as I don't
+        monitor the source regularly, I have chosen to use a static csv file for
+        this visualisation. <br />
+        Thanks for taking a look at these examples.<br />
+        I am currently updating a new portfolio site with more complex work in
+        Python, which I am hoping to integrate with d3.js for visualising
+        distributions etc..<br />
+      </p>
+    </div>
+
+    <div class="footer">
+      <div class="iconAttribution">
+        Country Icons from
+        <a href="https://www.flaticon.com/authors/freepik"> www.flaticon.com</a>
+      </div>
+    </div>
+
+    <script src="myscript.js"></script>
+  </body>
+</html>

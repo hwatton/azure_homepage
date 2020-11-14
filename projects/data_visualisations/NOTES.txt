@@ -1,0 +1,19 @@
+TO DO In this section.
+
+Make sample projects.
+
+make one - using Jstat. review the python stuff, make some predictions/models
+
+make another, using a bit of jupyter? see if it can be embedded
+
+make some chloropleth thing
+
+make stuff with scaled svgs, like pencil sales made of pencils.... weather data with weather icons
+
+make a few pages that walk through a process.>
+	>load data
+	>assess
+	>remove outliers
+	>go back over the old python thing.
+
+make some snazzy ones. animated hierarchies etc.

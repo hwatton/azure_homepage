@@ -1,0 +1,9 @@
+SPLIT INTO INTERACTIVE / NON INTERACTIVE
+
+bubble popper: needs a back ground, or loading something
+
+cells : the colour jumping badly occurs every other time. what gan on?
+
+main menu is shit. make something new.
+
+mini ideas is similarly whack.

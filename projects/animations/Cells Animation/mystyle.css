@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+}
+
+.container {
+  text-align: center;
+  margin-top: 5%;
+  display:flex;
+}
+
+.blob{
+  transform-origin: 50% 50%;
+  stroke-linecap: round;
+}

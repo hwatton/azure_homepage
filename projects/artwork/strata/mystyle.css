@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+  margin-top: 5%;
+}
+
+body{
+  background-color: white;
+}
+
+svg{
+  border-style: solid;
+  border-width: 0.5px;
+}
