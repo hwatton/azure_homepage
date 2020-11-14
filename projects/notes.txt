@@ -1,0 +1,22 @@
+Things to do:
+
+general:
+
+
+animation page:
+fix origami rewrite
+adapt for portrait media
+improve landing and selection method. potentially use blog style like other pages. (this will be good with the CI pipepline on gH.)
+get on codepen - there's loads of stuff on there
+
+artwork page:
+add in loads more. get thumbs.
+codepen!
+insta!
+do a good page on the square action.
+restyle for a 100% width like the data page.
+style and format each individual page better => make a template that i can c+V
+
+dataviz page:
+layout ok for now, fix force layout one.
+develop some analysis min proejcts
