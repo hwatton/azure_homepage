@@ -1,7 +1,7 @@
 function ladyBird(){
 
 let x = true
-//testing guthub push on VScode
+
 const actualHeight = window.innerHeight
 const actualWidth = window.innerWidth
 let step = 0
