@@ -1,4 +1,5 @@
 d3.select("body").style("background-color", "black")
+console.log("hi, I'm working")
 
 const col = d3.interpolateRainbow(Math.random())
 
