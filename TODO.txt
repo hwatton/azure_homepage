@@ -1,0 +1,52 @@
+SITE WIDE: 
+
+Go over containers. bootstrap uses the container class for it's flexbox wrapper, hence why I don;t always see it.
+Re orgainse Project landing pages to use flex box or grid, via boot strap so I get the resizing on mobile.
+
+Revisit the navbar to chekc it resizes correctly on mobile. Maybe use flex box and separate the nav and the content on the front page into two separate rows.
+Eventually: 
+Left Nav ||  Content || right space (to fill in future with links? embed codepen + insta?)
+
+ARTWORK SECTION:
+
+It can be a straight up gallery possibly, that clicks through to a live version, with refresh on click.
+
+DATA VIZ:
+
+Make sample projects.
+
+make one - using Jstat. review the python stuff, make some predictions/models
+
+make another, using a bit of jupyter? see if it can be embedded
+
+make some chloropleth thing
+
+make stuff with scaled svgs, like pencil sales made of pencils.... weather data with weather icons
+
+make a few pages that walk through a process.>
+	>load data
+	>assess
+	>remove outliers
+	>go back over the old python thing.
+
+make some snazzy ones. animated hierarchies etc.
+
+aNIMATION:
+
+SPLIT INTO INTERACTIVE / NON INTERACTIVE
+
+bubble popper: needs a back ground, or loading something
+
+cells : the colour jumping badly occurs every other time. what gan on?
+
+main menu is shit. make something new.
+
+mini ideas is similarly whack.
+
+iNSTAGRAM snippet:
+
+<div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'TeGljebynC4-eJ6JD8oO'});Pixlee.addSimpleWidget({widgetId:'30513'});};</script><script src="//instafeed.assets.pxlecdn.com/assets/pixlee_widget_1_0_0.js"></script>
+bin that,
+ <!-- SnapWidget -->
+<iframe src="https://snapwidget.com/embed/891012" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:165px; height:1980px"></iframe>
+bin that also. Maybe do this myself and just drop good files fo the things I like most in a gallery that can be scrolled through / random.
