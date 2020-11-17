@@ -1,4 +1,14 @@
-{"blogItems":[{
+{"blogItems":[
+  {
+    "heading": "Functioner",
+    "description": "Lines generated via randomised quadratic function",
+    "dateCreated": "17/11/2020",
+    "image":"functioner/thumb.png",
+    "text": "A few thousand lines, tampered with via a load of random and quadratic functions.",
+    "url" : "functioner/index.html"
+  
+  },
+  {
   "heading": "Strata 2",
   "description": "Second attempt of stratified artwork",
   "dateCreated": "10/11/2020",

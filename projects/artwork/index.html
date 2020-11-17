@@ -36,14 +36,18 @@
 
     </div>
   </nav
-<div>
-  <br>
-  <h2 class="topLink">Artwork&nbsp;&nbsp;&nbsp;<span class="smallerH2">an ongoing collection of visual projects</span></h2>
-  <br>
+<div class="header">
+  <h2 class="topLink">Artwork&nbsp;&nbsp;&nbsp;<span class="smallerH2">an ongoing collection of visual projects</span></h2> 
 </div>
-
-  <div class="leftcolumn">
-
+<div class="container">
+  <div class="row">
+  <div class="col leftColumn" style="max-width: 120;"></div>
+  <div class="col centreBit">/* page under development */<svg class="artworkHolder" viewBox="0 0 500 500" preserveAspectRatio="xMinYMin meet"></svg></div>
+  <div class="col rightColumn" style="max-width: 100; text-align:center;">
+  <button class="reload colourPath">load random artwork</button>
+  <button class="refresh colourPath">refresh this artwork</button>
+  </div>
+</div>
   </div>
 
 
@@ -80,5 +84,4 @@
 
   </script>
   <script src="artworkScript.js"></script>
-
 </body>

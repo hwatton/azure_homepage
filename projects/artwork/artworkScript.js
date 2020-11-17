@@ -10,7 +10,7 @@ dt.then((dtta)=>{
     let data = item
     console.log(data)
 
-    let card = d3.select(".leftcolumn")
+    let card = d3.select(".leftColumn")
     .append("div")
     .attr("class", "card colourPath")
     .style("border-color", col)
@@ -18,6 +18,20 @@ dt.then((dtta)=>{
       window.open(data.url, '_self')
     })
 
+    card.append("img")
+    .attr("src", data.image)
+    .attr("class", "card-img-top")
+
+    let cardDiv = card.append("div")
+    .attr("class", "card-body")
+
+    cardDiv.append("p")
+    .attr("class", "card-text")
+    .text(data.heading + ": " + data.description)
+
+
+
+    /*
     card.append("h4")
     .text(data.heading)
 
@@ -25,20 +39,21 @@ dt.then((dtta)=>{
     card.append("h6")
     .text(data.description + " " + data.dateCreated)
 
+    
 
 let imgDiv = card.append("div")
-.style("height", "100")
 .attr("class", "cardImage")
-.style("overflow", "hidden")
+*/
 
-    imgDiv.append("img")
-    .attr("src", data.image)
+    
   //  .attr("preserveAspectRatio", "xMidYMax slice")
-
+/*
     card.append("br")
     card.append("p")
     .attr("class", "cardText")
     .text(data.text)
+
+    */
 
   });
 
@@ -47,3 +62,7 @@ let imgDiv = card.append("div")
 
 
 })
+
+
+
+
