@@ -10,7 +10,7 @@ dt.then((dtta)=>{
     let data = item
     console.log(data)
 
-    let card = d3.select(".leftColumn")
+    let card = d3.select(".cards")
     .append("div")
     .attr("class", "card colourPath")
     .style("border-color", col)
@@ -27,7 +27,7 @@ dt.then((dtta)=>{
 
     cardDiv.append("p")
     .attr("class", "card-text")
-    .text(data.heading + ": " + data.description)
+    .text(data.heading)
 
 
 
