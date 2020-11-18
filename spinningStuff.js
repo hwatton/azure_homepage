@@ -12,11 +12,12 @@ const svgC = d3.select(".animation").append("svg")
 .attr("width", wd)
 
 .on("click", ()=>{
-  theSelector()
+ // theSelector()
 })
 
 let moving = true
 const colourArray = [
+  ["#CE00DF","#8000DF","#00C2FF","#55FF00","#FFCE00", "#FF0000","#CE00DF"],
   ["#000000","#03009e","#008cff","#03009e","#000000"],
   ["#ffffff", "#8c00ff", "#ff00aa", "#ffffff", "#00ff00", "#ffff00", "#ffffff"],
   ["#ff1493", "#120052", "#652ec7", "#00c2ba", "#82e0bf","#ff1493"],
@@ -146,7 +147,7 @@ requestAnimationFrame(autoSelector)
 
 requestAnimationFrame(autoSelector)
 
-
+/*
 function theSelector() {
 
 if(!moving) {
@@ -155,7 +156,7 @@ if(!moving) {
 }else{
   moving = false
 }
-}
+}*/
 
 function fivePointStar() { //f5
   /*
