@@ -9,11 +9,29 @@
   
   },
   {
+    "heading": "Generated Glowing Nest",
+    "description": "By product of another generated idea, rather liked it though.",
+    "dateCreated": "18/11/2020",
+    "image":"v5 - nest thing/thumb.png",
+    "text": "",
+    "url" : "v5 - nest thing/index.html"
+  
+  },
+  {
+    "heading": "Triangulator",
+    "description": "A multi triangle piece with a custom colour function, using d3's Turbo scheme.",
+    "dateCreated": "18/11/2020",
+    "image":"Triangulator/thumb.png",
+    "text": "",
+    "url" : "Triangulator/index.html"
+  
+  },
+  {
   "heading": "Strata 3",
   "description": "Third attempt of stratified artwork",
   "dateCreated": "10/11/2020",
   "image":"strata2/Output 1.png",
-  "text": "Here's some hardcoded json action written to show my artwork projects in a blog format, dynamically loaded from data. I've made it into a json format so that I might be able to translate it into something that can work with mongoDB",
+  "text": "",
   "url" : "strata2/index.html"
 
 },
@@ -22,8 +40,26 @@
   "description": "First attempt of stratified artwork",
   "dateCreated": "09/11/2020",
   "image":"strata/sample1.png",
-  "text": "now Putting stuff in here",
+  "text": "",
   "url" : "strata/index.html"
+
+},
+{
+  "heading": "Accidental Line Artwork",
+  "description": "Cool ga=radient /chevron pattern using d3.turbo colour scheme.",
+  "dateCreated": "18/11/2020",
+  "image":"Line Artwork/thumb.png",
+  "text": "",
+  "url" : "Line Artwork/index.html"
+
+},
+{
+  "heading": "Radial Arc Pattern",
+  "description": "Generated radial pattern, which reminded me of an artwork by Tal R",
+  "dateCreated": "18/11/2020",
+  "image":"TalR thing/thumb.png",
+  "text": "",
+  "url" : "TalR thing/index.html"
 
 },
 
@@ -32,7 +68,7 @@
   "description": "Second attempt of stratified artwork",
   "dateCreated": "09/11/2020",
   "image":"strata/sample2.png",
-  "text": "now Putting stuff in here you see the boon",
+  "text": "",
   "url" : "strata/index.html"
 
 }

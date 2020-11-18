@@ -1,0 +1,12 @@
+.container {
+  text-align: center;
+  
+}
+
+.svgHolder {
+  display: inline-block;
+  background-color: black;
+  padding: 2px;
+  margin: 0px;
+ 
+}

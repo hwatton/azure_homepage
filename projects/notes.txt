@@ -13,9 +13,13 @@ artwork page:
 add in loads more. get thumbs.
 codepen!
 insta!
-do a good page on the square action.
+do a good page on the square action => top 100%Div and then whole new bit, which might end up being it's own website.
 restyle for a 100% width like the data page.
 style and format each individual page better => make a template that i can c+V
+
+
+
+
 
 dataviz page:
 layout ok for now, fix force layout one.

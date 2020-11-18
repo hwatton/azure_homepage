@@ -24,7 +24,7 @@
 "heading": "Line Charts from Large Datasets ",
 "dateCreated": "12/11/2020",
 "image": "line charts/thumb.png",
-"text": "I pulled these data sets from kaggle I think. They relate to the production of electricity from solar farms, and the local weather at the time. The challenge was to find useful information in order for them to better predict their output according to the upcoming weather. I'd like to go into that at somepoint, but for now, I am content with rendering a useable graph from it all.",
+"text": "I pulled these data sets from kaggle. They relate to the production of electricity from solar farms, and the local weather at the time. The challenge was to find useful information in order for them to better predict their output according to the upcoming weather. I'd like to go into that at somepoint, but for now, I am content with rendering a useable graph from it all.",
 "url" : "line charts/index.html"
 }
 ]
