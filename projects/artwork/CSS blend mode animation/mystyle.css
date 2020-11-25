@@ -1,0 +1,49 @@
+body{
+  background-color: rgb(0, 0, 0);
+}
+
+.svgHolder {
+  text-align: center;
+  margin-top: 5%;
+
+}
+
+
+.spinner {
+  transform-origin: center;
+animation: rotating 50s linear infinite;
+}
+
+.spinnerCW {
+  transform-origin: center;
+animation: rotatingCCW 50s linear infinite;
+}
+
+
+.thing{
+   mix-blend-mode: screen; 
+   stroke-linecap: round;
+  
+}
+
+@keyframes rotating {
+  from {
+
+    transform: rotate(0deg);
+  }
+  to {
+
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes rotatingCCW {
+  from {
+
+    transform: rotate(360deg);
+  }
+  to {
+
+    transform: rotate(0deg);
+  }
+}

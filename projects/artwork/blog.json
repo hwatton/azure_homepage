@@ -1,5 +1,14 @@
 {"blogItems":[
   {
+    "heading": "CSS blend-mode",
+    "description": "Quick animated blend mode playabout",
+    "dateCreated": "25/11/2020",
+    "image":"CSS blend mode animation/thumb.png",
+    "text": "Using this property for a cool project (more on that another time). Just playing about with it here.",
+    "url" : "CSS blend mode animation/index.html"
+  
+  },
+  {
     "heading": "Functioner",
     "description": "Lines generated via randomised quadratic function",
     "dateCreated": "17/11/2020",
