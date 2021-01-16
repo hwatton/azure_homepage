@@ -156,7 +156,7 @@ d3.select(eye)
     d3.select(eye)
     .transition()
 .duration(6500)
-.style("fill-opacity", "90%")
+.style("fill-opacity", "100%")
 })
 
 }
@@ -174,7 +174,7 @@ d3.select(id)
     d3.select(id)
     .transition()
 .duration(6500)
-.style("fill-opacity", "90%")
+.style("fill-opacity", "100%")
 })
 
 
