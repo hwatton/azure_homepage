@@ -1,5 +1,14 @@
 {"blogItems":[
   {
+    "heading": "Triangle image animation",
+    "description": "Experimenting with images and svg animations",
+    "dateCreated": "16/01/2021",
+    "image":"imageTriangleMatrix/thumb.png",
+    "text": "Playing with <img> things as it's not something I've done a lot of creatively.",
+    "url" : "imageTriangleMatrix/index.html"
+  
+  },
+  {
     "heading": "CSS blend-mode",
     "description": "Quick animated blend mode playabout",
     "dateCreated": "25/11/2020",
