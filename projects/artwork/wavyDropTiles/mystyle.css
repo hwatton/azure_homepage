@@ -1,0 +1,18 @@
+.container {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.svgHolder{
+  border-style: solid;
+  border: black;
+  border-width: 1px;
+}
+
+.loop {
+  stroke-width: 2px;
+}
+
+.line{
+  stroke-width: 2px;
+}

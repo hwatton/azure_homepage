@@ -1,11 +1,6 @@
 SITE WIDE: 
 
-Go over containers. bootstrap uses the container class for it's flexbox wrapper, hence why I don;t always see it.
-Re orgainse Project landing pages to use flex box or grid, via boot strap so I get the resizing on mobile.
-
-Revisit the navbar to chekc it resizes correctly on mobile. Maybe use flex box and separate the nav and the content on the front page into two separate rows.
-Eventually: 
-Left Nav ||  Content || right space (to fill in future with links? embed codepen + insta?)
+rework artwork/animations into one page, using ethe blog/card style.
 
 ARTWORK SECTION:
 

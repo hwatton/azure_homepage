@@ -1,5 +1,32 @@
 {"blogItems":[
   {
+    "heading": "Strata 2021 rework",
+    "description": "more playing with strata",
+    "dateCreated": "15/01/2021",
+    "image":"strata2021/thumb.png",
+    "text": "changed a few permutations and styles",
+    "url" : "strata2021/index.html"
+  
+  },
+  {
+    "heading": "Wavy teardrop tiles",
+    "description": "teardrop tiles, flowing around",
+    "dateCreated": "13/01/2021",
+    "image":"wavyDropTiles/thumb.png",
+    "text": "making patterns with teardrop tiles and custom colour functions.",
+    "url" : "wavyDropTiles/index.html"
+  
+  },
+  {
+    "heading": "Pointy tiles",
+    "description": "teardrop tiles, oriented strangely",
+    "dateCreated": "13/01/2021",
+    "image":"pointyTiles/thumb.png",
+    "text": "making patterns with tiles. These points are the points of teardrop shapes, that can be found in other works. The layout surprised me and I liked it.",
+    "url" : "pointyTiles/index.html"
+  
+  },
+  {
     "heading": "Triangle image animation",
     "description": "Experimenting with images and svg animations",
     "dateCreated": "16/01/2021",
