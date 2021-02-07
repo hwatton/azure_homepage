@@ -11,7 +11,7 @@
   "dateCreated": "11/11/2020",
   "image": "API_force_Layout/thumb.png",
   "text": "This visualisation uses a force layout and is fed by a live API. I've used d3 force for a few graphic layouts, but I wanted to use it linked to live data, to see how that worked. Overall, I'm happy with how it works, and what it does, although I'd like to improve the styling.",
-  "url" : "API force Layout/index.html"
+  "url" : "API_force_Layout/index.html"
 },
 {
 "heading": "Interactive Histogram",

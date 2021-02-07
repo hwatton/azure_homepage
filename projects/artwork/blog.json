@@ -1,5 +1,14 @@
 {"blogItems":[
   {
+    "heading": "Genuary 2021 - day 19",
+    "description": "Instruction: increase randomness along the y-axis",
+    "dateCreated": "19/01/2021",
+    "image":"genuary19/thumb.png",
+    "text": "Instruction: increase randomness along the y-axis",
+    "url" : "genuary19/index.html"
+  
+  },
+  {
     "heading": "Strata 2021 rework",
     "description": "more playing with strata",
     "dateCreated": "15/01/2021",
