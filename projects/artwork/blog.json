@@ -1,5 +1,14 @@
 {"blogItems":[
   {
+    "heading": "Genuary 2021 - day 17",
+    "description": "Draw a line, pick a new colour, move a bit.",
+    "dateCreated": "17/01/2021",
+    "image":"genuary17/thumb.png",
+    "text": "Draw a line, pick a new colour, move a bit.",
+    "url" : "genuary17/index.html"
+  
+  },
+  {
     "heading": "Genuary 2021 - day 19",
     "description": "Instruction: increase randomness along the y-axis",
     "dateCreated": "19/01/2021",
