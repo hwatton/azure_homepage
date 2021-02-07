@@ -39,7 +39,7 @@ svgC.append("path")
     return d3.interpolateRainbow(Math.random())
 
 })
-.style("stroke-width", "0.3px")
+.style("stroke-width", "1px")
 
 
 }
